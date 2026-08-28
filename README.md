@@ -107,6 +107,3 @@ Choose a topic from the menu and follow the instructions.
 
 ---
 
-## 👤 Author
-**Haris**  
-Python developer passionate about teaching and problem‑solving.
